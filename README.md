@@ -15,7 +15,7 @@ I review my plans for implementing MID-Diff and validating its efficacy. If vali
 larger sample size, MID-Diff has the potential to improve disease diagnosis and treatment
 planning in low-resource clinical settings
 ```
-
+## Preliminary Results
 ## Performance Evaluation of distilled diffusion models
 <p align="center">
 <img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/96d7aa55-e79c-4ccd-931b-a57676357afd">
