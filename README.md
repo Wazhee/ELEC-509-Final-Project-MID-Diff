@@ -20,7 +20,9 @@ planning in low-resource clinical settings
 <p align="center">
 <img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/96d7aa55-e79c-4ccd-931b-a57676357afd">
 </p>
-
+<p align="center">
 <img width="430" alt="speed_distillation" src="https://github.com/user-attachments/assets/99783904-6ce5-49bd-abce-55d100593900">
 <img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/3aaaaa31-3b27-447c-b537-07d93a92e633">
+</p>
+
 <img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/7adedf3b-77c8-4f81-ac47-b52ccac5632e">
