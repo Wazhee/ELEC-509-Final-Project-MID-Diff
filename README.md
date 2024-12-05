@@ -5,7 +5,7 @@ and (2) evaluated the performance of BBDM under different parameters initializat
 
 
 ```
-Abstract:
+**Abstract:**
 
 I present a novel method for Medical Image Synthesis using Distilled Diff usion Models
 (MID-Diff). MID-Diff uses progressive distillation and denoising diffusion probabilistic
