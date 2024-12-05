@@ -18,6 +18,6 @@ planning in low-resource clinical settings
 
 ## Performance Evaluation of distilled diffusion models
 <img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/96d7aa55-e79c-4ccd-931b-a57676357afd">
-![lpips_distillation](https://github.com/user-attachments/assets/7adedf3b-77c8-4f81-ac47-b52ccac5632e)
+<img width="430" alt="table_distillation" src="https://github.com/user-attachments/assets/7adedf3b-77c8-4f81-ac47-b52ccac5632e">
 
 
