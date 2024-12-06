@@ -1,4 +1,4 @@
-# MID-Diff: **M**edical **I**mage **S**ynthesis using **D**istilled **Diff**usion Models
+# MID-Diff: Medical Image Synthesis using Distilled Diffusion Models
 This goal of this project is to propose a novel method for fast medical image-to-image (I2I) synthesis.<br>
 So far, I've accomplished the following tasks: (1) performed I2I synthesis using Brownian Bridge Diffusion Model (BBDM)<br>
 and (2) evaluated the performance of BBDM under different parameters initializations. 
